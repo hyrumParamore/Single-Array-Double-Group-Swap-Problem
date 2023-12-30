@@ -25,7 +25,7 @@ With all that context out of the way, I can now get on with what the problem its
 
 <!-- Diagram Image Here -->
 Refer to the image below to help visualize how the array is built and the groups are established:
-<p text-align="center">
+<p align="center">
   <img src="DoubleGroupArraySwapDiagram.png" height="600" width="auto" />
 </p>
 
