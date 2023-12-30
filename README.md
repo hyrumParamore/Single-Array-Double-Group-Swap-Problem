@@ -26,7 +26,9 @@ With all that context out of the way, I can now get on with what the problem its
 <!-- Diagram Image Here -->
 Refer to the image below to help visualize how the array is built and the groups are established:
 <!-- ![Alt text](DoubleGroupArraySwapDiagram.png) -->
-<img src="DoubleGroupArraySwapDiagram.png" height="600" width="0 auto" />
+<p align="center">
+  <img src="DoubleGroupArraySwapDiagram.png" height="600" width="auto" />
+</p>
 
 ##### *(Each item inside of the array (a section) has an index. That index is the order in which the sections were added to the array. The "Full Array" displays what the array would look like if it was displayed.)*
 
