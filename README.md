@@ -1,4 +1,4 @@
-# Double Group Array Swap Problem Solution for **ADDO**
+# Double Group Array Swap Problem Solution
 
 ## Introduction
 <!-- Add the link to the page where I am showing off the ADDO app -->
