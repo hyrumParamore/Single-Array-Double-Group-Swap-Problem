@@ -6,9 +6,13 @@ This document here, along with the code is a problem that I was faced with when 
 
 Anyway, this is a problem that I was faced with how I had developed the app and the way that the data was being stored. It was an array problem that I'm sure there was a solution to somewhere, but I decided that I wanted to figure it out myself with the knowledge I had. I created a program in XCode, and it's written in Swift/SwiftUI. I wanted to make it as close as I could to the problem inside the app itself, so I made it interactive and made sure it worked correctly. So here it is!
 
-If you want to see how the program works, I created a short video going over it below:
+There will be a demo video coming soon!
+<!-- If you want to see how the program works, I created a short video going over it below: -->
+
 <!-- Add the video link (also create the video to actually add) -->
-* ### [Watch the Demo Video Here!](linkGoesHere) <br> </br>
+
+<!-- * ### [Watch the Demo Video Here!](linkGoesHere) <br> </br>-->
+
 
 ---
 
@@ -36,7 +40,7 @@ Since I only have one main array that contains all of the different sections, it
 
 ### **Let's go through some code to explain some stuff :D**
 
-A Section will be created and contains an id, title, and a group that helps distinguish it. This allows for the creation of many sections that all could contain different elements within. But in this example, we will just focus on the "groups" element within.
+A Section will be created and contains an id, title, and a group that helps distinguish it. This allows for the creation of many sections that could contain different elements within. But in this example, we will just focus on the "groups" element within.
 ```swift
 // Allows for the creation of Sections to be used when needed.
 struct Section: Identifiable {
@@ -115,7 +119,7 @@ for index in (0..<sectionIndex).reversed() {
 }
 ```
 
-And that's about it! Not much to it other than it was a fun brain teaser! This was a fun problem that I had to solve and figure out, and then after making, to then implement it into the app I'm developing. There were some different changes that I had to adjust to like the different types of data inside the app, but the overall concept is the same and it works perfectly with no issues!
+And that's about it! Not much to it other than it was a fun brain teaser! This was a fun problem that I had to solve and figure out, and then after making it, to then implement it into the app I'm developing. There were some different changes that I had to adjust to like the different types of data inside the app, but the overall concept is the same and it works perfectly with no issues!
 <br> </br>
 *Thank you for taking the time to read through this!*
 
