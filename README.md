@@ -2,7 +2,7 @@
 
 ## Introduction
 <!-- Add the link to the page where I am showing off the ADDO app -->
-This document here, along with the code is a problem that I was faced with when working on the app my brother and I are developing (he designed it, I developed it). I won't get into too many details about the app here, but if you would like to learn more about it [click here](linkToAppPage)
+This document here, along with the code is a problem that I was faced with when working on the app my brother and I are developing (he designed it, I developed it). I won't get into too many details about the app here, but if you would like to learn more about it [click here]([linkToAppPage](https://hyrumparamore.github.io/ADDO-Demo.github.io/index.html))
 
 Anyway, this is a problem that I was faced with how I had developed the app and the way that the data was being stored. It was an array problem that I'm sure there was a solution to somewhere, but I decided that I wanted to figure it out myself with the knowledge I had. I created a program in XCode, and it's written in Swift/SwiftUI. I wanted to make it as close as I could to the problem inside the app itself, so I made it interactive and made sure it worked correctly. So here it is!
 
@@ -35,7 +35,7 @@ Refer to the image below to help visualize how the array is built and the groups
 
 ##### *(Each item inside of the array (a section) has an index. That index is the order in which the sections were added to the array. The "Full Array" displays what the array would look like if it was displayed.)*
 
-Since I only have one main array that contains all of the different sections, it makes it difficult to manage or move around the elements of the array inside two different views that are displaying different selected sections. Lets now see how it was done!
+Since I only have one main array that contains all of the different sections, it makes it difficult to manage or move around the elements of the array inside two different views that display different selected sections. Let's now see how it was done!
 <br> </br>
 
 ### **Let's go through some code to explain some stuff :D**
